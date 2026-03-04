@@ -71,7 +71,13 @@ Right-click on your project → **Properties**
 3. Click the dropdown arrow → Edit
 4. Add new line: `C:\raylib\lib`
 
-**C. Link the Libraries:**
+**C. Set Additional Include Directories:**
+1. Expand **C/C++**
+2. Click **Additional Include Directories**
+3. Click the dropdown arrow → Edit
+4. Add new line: `C:\raylib\include`
+
+**D. Link the Libraries:**
 1. Expand **Linker** in left sidebar
 2. Click **Input**
 3. Click **Additional Dependencies**
