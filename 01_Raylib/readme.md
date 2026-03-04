@@ -25,7 +25,7 @@
 
 **Step 1: Download Raylib**
 1. Go to https://github.com/raysan5/raylib/releases/latest
-2. Download **`raylib-5.0_win64_msvc16.zip`** (or latest win64 MSVC version)
+2. Download **`raylib-5.5_win64_msvc16.zip`** (or latest win64 MSVC version)
     - **Important:** Make sure it says **win64**, not win32!
 3. Extract the ZIP file
 4. Copy the `include` and `lib` folders to `C:\raylib\`
